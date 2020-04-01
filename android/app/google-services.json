@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "178903234583",
+    "firebase_url": "https://mappro-df174.firebaseio.com",
+    "project_id": "mappro-df174",
+    "storage_bucket": "mappro-df174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178903234583:android:b2464e2150dd444f83c452",
+        "android_client_info": {
+          "package_name": "com.example.mapPRO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178903234583-s8soafq2or5jjuo4do3ca96vpnm3svlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIJ5fEFQ2zRV8wGxTamdK66stPDBH73w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178903234583-s8soafq2or5jjuo4do3ca96vpnm3svlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
